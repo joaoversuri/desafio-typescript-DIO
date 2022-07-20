@@ -1,0 +1,19 @@
+{
+  "name": "desafio-typescript-dio",
+  "version": "1.0.0",
+  "description": "Desafio proposto na aula de introdução pratica ao typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "author": "Joao Versuri",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

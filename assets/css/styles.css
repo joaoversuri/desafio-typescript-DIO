@@ -1,0 +1,17 @@
+*{
+    margin: 10;
+    padding: 10;
+    font-family: sans-serif;
+}
+
+button {
+    margin-right: 10px;
+	border-radius: 10px;
+	font-size: 1rem;
+	height: 30px;
+	width: 150px;
+	border: none;
+	background-color: #0146a1;
+	color: #e5e8e8;
+	transition: all 0.5s linear;
+}
